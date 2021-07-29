@@ -5,7 +5,7 @@ cache: npm
 notifications:
   email: false
 node_js:
-  - "16.2.0"
+  - 16.2.0
 jobs:
   include:
     - stage: test
